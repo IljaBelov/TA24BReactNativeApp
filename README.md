@@ -9,4 +9,4 @@ Complete the following steps:
 
 ## Student
 
-**First and last name:** `YOUR FIRST AND LAST NAME`
+**First and last name:** `Ilja belov`
